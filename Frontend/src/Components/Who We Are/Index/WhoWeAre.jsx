@@ -1,4 +1,4 @@
-import EducationHero from "../hERO.JSX";
+import EducationHero from "../Hero.jsx";
 
 
 
