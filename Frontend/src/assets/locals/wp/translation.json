@@ -1,0 +1,104 @@
+{
+  "navbar": {
+    "about": "About",
+    "ourWork": "Our Work",
+    "blogs": "Blogs",
+    "Who": "Whowe",
+    "Work": "What We Do",
+    "contact": "Contact",
+
+    "projects": {
+      "project1": "Project One",
+      "project2": "Project Two",
+      "project3": "Project Three",
+      "project4": "Project Four",
+      "project5": "Project Five"
+    },
+
+    "services": {
+      "service1": "Service One",
+      "service2": "Service Two",
+      "service3": "Service Three",
+      "service4": "Service Four",
+      "service5": "Service Five"
+    }
+  },
+
+  "hero": {
+    "title": "ROPE OF HOPE",
+    "subtitle": " उम्मीद की एक डोर",
+    "cta": "Registration Now",
+    "scrollText": "Scroll For More"
+  },
+"childrenSupport": {
+  "headline": "Yahan seekh ka safar kaisa hota hai?",
+  "paragraph": [
+
+  "Hum bachchon ko sirf padhate nahi — unhe samajhna, sochna, share karna aur mil-jul kar kaam karna bhi sikhate hain.",
+  " Classes ke saath-saath activities, games, workshops aur mentoring ke through\nbachche confidence, discipline, communication aur life-skills develop karte hain."
+  ],
+  "cta": "Support for a brighter future",
+
+  "slides": [
+    {
+      "title": "Learning computers, building futures.",
+      "subtitle": "Practical learning, real digital confidence."
+    },
+    {
+      "title": "Apne haathon se apni pehchaan.",
+      "subtitle": "Seekh se rozgaar tak — ek badlav bhari yatra."
+    },
+    {
+      "title": "Sab milkar banayein ek green future.",
+      "subtitle": "Prakriti ko bachana hum sabki zimmedari hai."
+    },
+    {
+      "title": "Soft Skills — zindagi bhar ka saathi.",
+      "subtitle": "Har din seekhna, har din grow karna"
+    }
+  ]
+},
+
+  "fieldsOfWork": {
+    "heading": "Our Fields of Work",
+
+    "fields": [
+      {
+        "title": "Education",
+        "headline": "Protecting Education, Protecting the Future!",
+        "description": "From early childhood to adolescence, quality education unlocks human potential. Safe classrooms, girls' participation, and digital access remove barriers across India.",
+        "button": "Learn More"
+      },
+      {
+        "title": "Health",
+        "headline": "Protecting Health, Protecting the Future!",
+        "description": "We ensure health and nutrition for children through awareness campaigns, system strengthening, and partnerships with government bodies.",
+        "button": "Learn More"
+      },
+      {
+        "title": "Resilience",
+        "headline": "Building Resilience for Tomorrow",
+        "description": "Empowering children and communities to adapt and thrive through climate awareness, disaster preparedness, and emotional strength.",
+        "button": "Learn More"
+      },
+      {
+        "title": "Livelihood",
+        "headline": "Ensuring Livelihoods for Families",
+        "description": "Uplifting families through skill development, vocational training, and placement support for sustainable income.",
+        "button": "Learn More"
+      },
+      {
+        "title": "Protection",
+        "headline": "Safety & Protection for Every Child",
+        "description": "Creating safe spaces, preventing abuse, and advocating child rights through legal and community interventions.",
+        "button": "Learn More"
+      },
+      {
+        "title": "Humanitarian Aid",
+        "headline": "Humanitarian Aid with Dignity",
+        "description": "Rapid response during emergencies — food, shelter, and continuity of education — delivered with dignity and care.",
+        "button": "Learn More"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+.traffic-arrow-wrapper {
+  width: 200px;
+  height: 40px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+/* diagonal directions */
+.diag-down {
+  transform: rotate(-320deg);
+  margin-top: -150px;
+  margin-left: 230px;
+}
+
+.diag-up {
+  transform: rotate(-45deg);
+  margin-top: -280px;
+}
+
+.traffic-arrow-svg {
+  width: 400%;
+}
+
+.traffic-arrow-flow {
+  animation: trafficArrowMove 2.3s linear infinite;
+}
+.traffic-arrow-flow polygon {
+  fill: rgba(210, 210, 210, 0.60);
+  filter: blur(0.4px);
+}
+
+@keyframes trafficArrowMove {
+  from { transform: translateX(-160px); }
+  to { transform: translateX(0); } /* continuous leftward flow */
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE/Edge */
+  scrollbar-width: none;    /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+
+
+  /* styles.css */
+
+
+
+  
+@media (min-width: 1120px) and (max-width: 1350px) {
+
+
+   .icons-gap {
+    @apply gap-18
+
+  }
+   
+}
+@media (min-width: 1024px) and (max-width: 1120px) {
+  .hero-section {
+    @apply mt-15 ml-25;
+  }
+  .hope{
+    @apply  -ml-22;
+  }
+  .field{
+    @apply gap-10
+  }
+  .success-story {
+    @apply h-[400px]
+  }
+  .helpchildren-height{
+    @apply h-70
+  }
+  .helpchildren-width{
+    @apply min-w-[45%] 
+  }
+  .helpchildren-ChevronRight{
+    @apply top-53 
+  }
+}
+
+
+@media (min-width: 764px) and (max-width: 1020px) {
+
+
+   .journey-diag-up {
+    @apply  -rotate-10 ml-35 -mt-85
+
+  }
+   
+}
+
+
+
+
+
