@@ -1,5 +1,6 @@
 import EducationHero from "../Hero.jsx";
 import Why_Edu from "../Why_Education.jsx";
+import Without_Education from "../Without_EDucation.jsx";
 
 
 
@@ -10,7 +11,8 @@ export function WhoWeAre(){
 
 
 <EducationHero />
-{/* <Why_Edu /> */}
+<Why_Edu />
+<Without_Education />
 
 </div>
     

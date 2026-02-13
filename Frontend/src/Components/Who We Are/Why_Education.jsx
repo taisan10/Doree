@@ -2,7 +2,6 @@ export default function Why_Edu(){
   return(
 
 
-
 <section className="w-full bg-orange-50 py-20">
   <div className="max-w-7xl mx-auto px-1">
 
@@ -20,7 +19,7 @@ export default function Why_Edu(){
     </div>
 
     {/* Impact Grid */}
-    <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+    <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-7">
 
       {/* Card */}
       {[
